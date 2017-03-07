@@ -46,3 +46,7 @@ ul {
       li a:hover {
         background-color: #111;
       }
+img {
+  max-width; 100px;
+  max-height: auto;
+}
